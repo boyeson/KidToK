@@ -1,0 +1,20 @@
+{
+  "name": "kid-tok-backend",
+  "version": "1.0.0",
+  "description": "Backend for the KidTok educational social media platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {},
+  "keywords": ["educational", "social media", "platform"],
+  "author": "boyeson",
+  "license": "ISC",
+  "timestamp": "2026-04-01T01:44:14Z"
+}
